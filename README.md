@@ -9,6 +9,8 @@ Comando úteis:
 - Clonando aplicação laravel
 
   curl -s "https://laravel.build/name-app?with=mysql,redis,mailhog" | bash
+  
+  curl -s "https://laravel.build/name-app?with=pgsql,redis,mailhog" | bash
 
 
 - Acessando pasta da aplicação
