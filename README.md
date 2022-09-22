@@ -59,6 +59,8 @@ Comando úteis:
   
   sail build -v
   
+  sail build --no-cache
+  
   sail —help
   
   sail artisan optimize:clear
