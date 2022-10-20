@@ -25,7 +25,7 @@ Comando úteis:
 
 - Permissão de Pastas
 
-  vendor/bin/sail root-shell
+  ./vendor/bin/sail root-shell
 
   cd ..
   
